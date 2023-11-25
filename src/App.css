@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+.contact-image {
+  width: 100px;
+  height: auto;
+  border-radius: 20%;
+  margin: 15px;
+}
+.table-container {
+  margin: 30px;
+  padding: 20px;
+  justify-content: space-between;
+}
